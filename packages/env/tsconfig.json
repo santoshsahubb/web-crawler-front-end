@@ -1,0 +1,3 @@
+{
+  "extends": "@web-crawler-front-end/config/tsconfig.base.json"
+}
