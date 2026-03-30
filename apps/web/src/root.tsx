@@ -52,6 +52,7 @@ export default function App() {
       <div className="grid grid-rows-[auto_1fr] h-svh">
         <Header />
         <Outlet />
+        <h1>santosh sahu</h1>
       </div>
       <Toaster richColors />
     </ThemeProvider>
